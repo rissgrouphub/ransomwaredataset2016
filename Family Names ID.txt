@@ -1,0 +1,15 @@
+FAMILY NAME          ID
+------------------------------
+Goodware              0
+'Critroni'            1
+'CryptLocker'         2
+'CryptoWall'          3
+'KOLLAH'              4
+'Kovter'              5
+'Locker'              6
+'MATSNU'              7
+'PGPCODER'            8
+'Reveton'             9
+'TeslaCrypt'         10
+'Trojan-Ransom'      11
+
